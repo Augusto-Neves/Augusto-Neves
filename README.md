@@ -7,7 +7,6 @@ No meu tempo livre gosto de jogar e ver outros jogando video-games (🎮), assis
 Gostaria de entrar em contato comigo?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-neves-066b7b1ab)](https://www.linkedin.com/in/augusto-neves-066b7b1ab)
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ea5f63?style=flat-square&labelColor=ea5f63&logo=instagram&logoColor=white&link=https://www.instagram.com/_augusto_neves/)](https://www.instagram.com/_augusto_neves/)
 
 
