@@ -4,11 +4,20 @@ Meu nome é Augusto Neves sou brasileiro (🇧🇷) e venho aprendendo programa�
 
 No meu tempo livre gosto de jogar e ver outros jogando video-games (🎮), assistir filmes(🎞️) e séries(📺), ouvir música (🎵) e passar tempo com a minha família (👪). 
 
+<div style="text-aling: center">
+  <img heigth="10rem" src="https://github-readme-stats.vercel.app/api?username=Augusto-Neves&show_icons=true&theme=graywhite"  />
+  <img heigth="10rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=graywhite&layout=compact" />
+</div>
+
 ### English
 
 My name is Augusto Neves and I'm from Brazil (🇧🇷) and I've been learning programming since 2019. I felt in love straight away by the world of the front-end with JavaScrpit, HTML and CSS. I'm currently learning more about React and our dear Node. I have interest in Vue and Angular too. I'm still learning a lot about the programming world, so I hope I have a lot of work to show here. 💪
 
 In my free time, I like to play and see others playing video games (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵) and to spend time with my family (👪).
+
+
+
+
 
 
 
