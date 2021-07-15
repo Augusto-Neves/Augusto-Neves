@@ -5,10 +5,10 @@ Meu nome é Augusto Neves sou brasileiro (🇧🇷) e venho aprendendo programa�
 No meu tempo livre gosto de jogar e ver outros jogando video-games (🎮), assistir filmes(🎞️) e séries(📺), ouvir música (🎵) e passar tempo com a minha família (👪). 
 
 <div style="text-aling: center; margin: 0 auto; background-color: #0000;">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Augusto-Neves&show_icons=true&theme=graywhite" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Augusto-Neves&show_icons=true&theme=dark" />
 </div>
 <div style="text-aling: center; margin: 0 auto; background-color: #0000;">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=graywhite&layout=compact" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=dark&layout=compact" />
 </div>
 
 ### English
