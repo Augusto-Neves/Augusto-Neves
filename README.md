@@ -28,7 +28,7 @@ In my free time, I like to play and see others playing video games (🎮), to wa
 
 Gostaria de entrar em contato comigo? / Would you like to contact me? 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-neves-066b7b1ab)](https://www.linkedin.com/in/augusto-neves-066b7b1ab)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-neves-066b7b1ab)](https://www.linkedin.com/in/augustonevesdev/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ea5f63?style=flat-square&labelColor=ea5f63&logo=instagram&logoColor=white&link=https://www.instagram.com/_augusto_neves/)](https://www.instagram.com/_augusto_neves/)
 
 <!--
