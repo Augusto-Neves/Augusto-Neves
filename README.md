@@ -24,7 +24,7 @@ My name is Augusto Neves and I'm from Brazil (🇧🇷) and I've been learning p
 
 In my free time, I like to play and see others playing video games (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵) and to spend time with my family (👪).
 
-![Snake animation](https://raw.githubusercontent.com/Augusto-Neves/Augusto-Neves/31f9ca4e8d80a7525bca7b644fc80c8888e7abf7/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Augusto-Neves/Augusto-Neves/blob/output/github-contribution-grid-snake.svg)
 
 Gostaria de entrar em contato comigo? / Would you like to contact me? 
 
