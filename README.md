@@ -1,12 +1,15 @@
 ### Hi there / Olá 👋
+My name is Augusto Neves and I'm from Brazil (🇧🇷) and I've been learning programming since 2019. I felt in love straight away by the world of the front-end with JavaScrpit, HTML and CSS. I'm currently learning more about React and React Native. I'm still learning a lot about the programming world, so I hope I have a lot of work to show here. 💪
 
-Seja bem-vindo, sou Augusto Neves(🇧🇷) e venho aprendendo programação desde o segundo semestre de 2019. Logo de cara fui fisgado pelo mundo do front-end com JavaScrpit, HTML e CSS. Atualmente estou aprendendo mais sobre React e Node. Ainda estou aprendendo muito sobre o mundo da programação então espero ter bastante trabalho para mostrar aqui. 💪
-
-No meu tempo livre gosto de jogar e ver outros jogando video-games (🎮), assistir filmes(🎞️) e séries(📺), ouvir música (🎵) e passar tempo com a minha família (👪). 
+In my free time, I like to play and see others playing video games (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵) and to spend time with my family (👪).
 
 <div style="text-aling: center; margin: 0 auto; background-color: #0000;">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Augusto-Neves&show_icons=true&theme=midnight-purple&layout=compact" />
+  
 </div><br>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Augusto-Neves&theme=dark&hide_border=true" width="400">
+</div> <br> 
 <div style="display: inline_block">
   <img align="center" alt="Augusto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Augusto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,14 +21,8 @@ No meu tempo livre gosto de jogar e ver outros jogando video-games (🎮), assis
   <img align="center" alt="Augusto-FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"> 
 </div><br>
 <div style="text-aling: center; margin: 0 auto; background-color: #0000;">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=midnight-purple&layout=compact" />
-</div>
-
-### English
-
-My name is Augusto Neves and I'm from Brazil (🇧🇷) and I've been learning programming since 2019. I felt in love straight away by the world of the front-end with JavaScrpit, HTML and CSS. I'm currently learning more about React and our dear Node. I'm still learning a lot about the programming world, so I hope I have a lot of work to show here. 💪
-
-In my free time, I like to play and see others playing video games (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵) and to spend time with my family (👪).
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=midnight-purple&layout=compact" />  
+</div><br>
 
  ![Snake animation](https://github.com/Augusto-Neves/Augusto-Neves/blob/output/github-contribution-grid-snake.svg)
 
