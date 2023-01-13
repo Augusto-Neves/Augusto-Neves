@@ -3,9 +3,9 @@ My name is Augusto Neves and I'm from Brazil (🇧🇷) and I've been learning p
 
 In my free time, I like to play and see others playing video games (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵) and to spend time with my family (👪).
 
-<div style="text-aling: center; margin: 0 auto; background-color: #0000;">
+<!-- <div style="text-aling: center; margin: 0 auto; background-color: #0000;">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Augusto-Neves&show_icons=true&theme=omni&layout=compact" />
-</div><br>
+</div><br> -->
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Augusto-Neves&theme=dark&hide_border=true" width="400">
 </div> <br> 
@@ -19,9 +19,9 @@ In my free time, I like to play and see others playing video games (🎮), to wa
   <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="Augusto-FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"> 
 </div><br>
-<div style="text-aling: center; margin: 0 auto; background-color: #0000;">
+<!-- <div style="text-aling: center; margin: 0 auto; background-color: #0000;">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=omni&layout=compact" />  
-</div><br>
+</div><br> -->
 
  ![Snake animation](https://github.com/Augusto-Neves/Augusto-Neves/blob/output/github-contribution-grid-snake.svg)
 
