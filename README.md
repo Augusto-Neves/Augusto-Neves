@@ -1,7 +1,5 @@
 ### Hi there / Olá 👋
-My name is Augusto Neves and I'm from Brazil (🇧🇷) and I've been learning programming since 2019. I felt in love straight away by the world of the front-end with JavaScrpit, HTML and CSS. I'm currently learning more about React and React Native. I'm still learning a lot about the programming world, so I hope I have a lot of work to show here. 💪
-
-In my free time, I like to play and see others playing video games (🎮), to watch movies (🎞️) and series (📺), to listen to music (🎵) and to spend time with my family (👪).
+My name is Augusto Neves and I'm from Brazil (🇧🇷) and I've been learning programming since 2019. I fell in love straight away with the world of the front-end with JavaScrpit, HTML, and CSS. I'm currently working with front-end development using React, React Native, and Next. I'm still learning a lot about the programming world, so I hope I have a lot of work to show here. 💪
 
 <div style="text-aling: center; margin: 0 auto; background-color: #0000;">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Augusto-Neves&show_icons=true&theme=omni&layout=compact" />
@@ -23,7 +21,7 @@ In my free time, I like to play and see others playing video games (🎮), to wa
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=omni&layout=compact" />  
 </div><br>
 
- ![Snake animation](https://github.com/Augusto-Neves/Augusto-Neves/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/Augusto-Neves/Augusto-Neves/blob/output/github-contribution-grid-snake.svg) -->
 
 Gostaria de entrar em contato comigo? / Would you like to contact me? 
 
