@@ -17,9 +17,9 @@ My name is Augusto Neves and I'm from Brazil (🇧🇷) I've been learning progr
   <img align="center" alt="Augusto-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="Augusto-FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"> 
 </div><br>
-<!--<div style="text-aling: center; margin: 0 auto; background-color: #0000;">
+<div style="text-aling: center; margin: 0 auto; background-color: #0000;">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Neves&theme=omni&layout=compact" />  
-</div><br> -->
+</div><br>
 
 <!--  ![Snake animation](https://github.com/Augusto-Neves/Augusto-Neves/blob/output/github-contribution-grid-snake.svg) -->
 
